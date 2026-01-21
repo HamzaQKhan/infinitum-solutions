@@ -32,7 +32,7 @@ const socialIcons = [
             <div class="w-7 h-7 rounded flex items-center justify-center overflow-hidden shrink-0">
               <img src="/src/assets/logo-icon.webp" alt="Infinitum Solutions LLC Logo" class="w-full h-full object-contain" />
             </div>
-            <span class="font-medium tracking-tight text-sm group-hover:opacity-80 transition-opacity text-slate-900 text-sx sm:text-2xl text-[#0755e9]">
+            <span class="font-medium tracking-tight text-sm sm:text-2xl group-hover:opacity-80 transition-opacity text-[#0755e9]">
               Infinitum Solutions
               <span class="text-xs">LLC</span>
             </span>

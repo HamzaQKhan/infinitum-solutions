@@ -18,7 +18,7 @@ const activeId = inject('activeSection')
           <img src="/src/assets/logo-icon.webp" alt="Infinitum Solutions LLC Logo">
         </div>
         <span
-          class="font-medium tracking-tight text-sm group-hover:opacity-80 transition-opacity text-slate-900 text-sx sm:text-2xl text-[#0755e9]"
+          class="font-medium tracking-tight text-sm sm:text-2xl group-hover:opacity-80 transition-opacity text-[#0755e9]"
         >
           Infinitum Solutions
           <span class="text-xs">LLC</span>
