@@ -9,7 +9,6 @@ import TrustSignals from './components/TrustSignals.vue'
 import Features from './components/Features.vue'
 import Demo from './components/Demo.vue'
 import Testimonials from './components/Testimonials.vue'
-import Pricing from './components/Pricing.vue'
 import CTA from './components/CTA.vue'
 import AppFooter from './components/AppFooter.vue'
 
@@ -27,7 +26,6 @@ provide('activeSection', activeId)
     <Features />
     <Demo />
     <Testimonials />
-    <Pricing />
     <CTA />
     <AppFooter />
   </div>

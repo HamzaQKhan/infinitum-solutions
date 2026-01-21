@@ -57,7 +57,7 @@ const lottieUrl = 'https://assets2.lottiefiles.com/packages/lf20_2cwDXD.json'
 
       <!-- Large rounded card (neeche wala section) -->
       <div
-        class="hero-card relative w-full rounded-[2.5rem] md:rounded-[3rem] overflow-hidden bg-white/95 dark:bg-white/90 shadow-2xl"
+        class="hero-card relative w-full rounded-[2.5rem] md:rounded-[3rem] overflow-hidden bg-white/95 dark:bg-white/5 dark:backdrop-blur-xl dark:border-white/10 shadow-2xl"
       >
         <div class="grid grid-cols-1 lg:grid-cols-[1fr_1.1fr] min-h-[420px] md:min-h-[480px] items-center gap-0">
           <!-- Left: Robot image with dot pattern overlay -->
